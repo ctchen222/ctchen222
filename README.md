@@ -5,6 +5,6 @@ I'm CTChen.
 Just a guy looking to make my developer workflow more awesome, build great software system, and ultimately craft really awesome software.
 
 Fun Facts
-- ✨ I have an adorable dog
+- ✨ I have an adorable dog named twobao
 - 🌱 Neovim user
-- 📫 Try to [blog]([https://blog.olimorris.com](https://www.blog-ctchen.com/)) when I have useful things to share
+- 📫 This is my blog [blog]([https://blog.olimorris.com](https://www.blog-ctchen.com/))
