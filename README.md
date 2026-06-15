@@ -7,4 +7,4 @@ Just a guy looking to make my developer workflow more awesome, build great softw
 Fun Facts
 - ✨ I have an adorable dog named twobao
 - 🌱 Neovim user
-- 📫 This is my blog [blog]([https://blog.olimorris.com](https://www.blog-ctchen.com/))
+- 📫 This is my [blog]([https://blog.olimorris.com](https://www.blog-ctchen.com/))
