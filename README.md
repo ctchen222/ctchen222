@@ -66,6 +66,12 @@ const ctchen = {
 
 <em>Taiwan pet adoption and lost-pet matching platform with public shelter data sync, smart matching, LINE Bot flows, and GitOps deployment.</em>
 
+<br />
+<sub>
+  <strong>Focus:</strong> Ministry of Agriculture data sync, lost-pet matching, notification flows, and production-style Kubernetes delivery.
+</sub>
+<br />
+
 <sub><code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>LINE Bot</code> <code>Helm</code> <code>Argo CD</code> <code>Kubernetes</code></sub>
 
 <br />
@@ -75,6 +81,12 @@ const ctchen = {
 
 <em>Multi-machine k3s GitOps homelab for personal FinOps, self-hosted apps, scheduled market research, and private observability.</em>
 
+<br />
+<sub>
+  <strong>Focus:</strong> GitHub Actions image publishing, Argo CD sync, Traefik access boundaries, persistent storage, and Grafana dashboards.
+</sub>
+<br />
+
 <sub><code>TypeScript</code> <code>Python</code> <code>k3s</code> <code>Argo CD</code> <code>Helm</code> <code>GitHub Actions</code> <code>Grafana</code></sub>
 
 <br />
@@ -83,6 +95,12 @@ const ctchen = {
 ### [openspec.nvim](https://github.com/ctchen222/openspec.nvim)
 
 <em>Neovim control surface for OpenSpec workflows, adding task summaries, workspace context, HTML reports, and implementation sessions.</em>
+
+<br />
+<sub>
+  <strong>Focus:</strong> artifact parsing, task progress summaries, workspace cockpits, dark-mode reports, and provider-aware commands.
+</sub>
+<br />
 
 <sub><code>Lua</code> <code>Neovim</code> <code>OpenSpec</code> <code>Developer Tools</code></sub>
 
