@@ -111,8 +111,8 @@ const ctchen = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ctchen222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" alt="CT Chen's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctchen222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="CT Chen's GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
