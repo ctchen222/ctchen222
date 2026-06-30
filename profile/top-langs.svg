@@ -1,0 +1,32 @@
+<svg width="420" height="170" viewBox="0 0 420 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages</title>
+  <desc id="desc">Static top language chart for CT Chen's non-fork public repositories.</desc>
+  <rect width="420" height="170" rx="8" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="419" height="169" rx="7.5" stroke="#30363D"/>
+  <text x="24" y="35" fill="#38BDF8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Top Languages</text>
+  <text x="24" y="62" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Primary languages across non-fork public repos.</text>
+
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">
+    <text x="24" y="91" fill="#F0F6FC">TypeScript</text>
+    <rect x="118" y="81" width="210" height="10" rx="5" fill="#21262D"/>
+    <rect x="118" y="81" width="210" height="10" rx="5" fill="#3178C6"/>
+    <text x="344" y="91" fill="#8B949E">5 repos</text>
+
+    <text x="24" y="116" fill="#F0F6FC">Go</text>
+    <rect x="118" y="106" width="210" height="10" rx="5" fill="#21262D"/>
+    <rect x="118" y="106" width="168" height="10" rx="5" fill="#00ADD8"/>
+    <text x="344" y="116" fill="#8B949E">4 repos</text>
+
+    <text x="24" y="141" fill="#F0F6FC">JavaScript</text>
+    <rect x="118" y="131" width="210" height="10" rx="5" fill="#21262D"/>
+    <rect x="118" y="131" width="126" height="10" rx="5" fill="#F1E05A"/>
+    <text x="344" y="141" fill="#8B949E">3 repos</text>
+
+    <circle cx="24" cy="158" r="3" fill="#2C2D72"/>
+    <text x="34" y="162" fill="#8B949E">Lua 2</text>
+    <circle cx="86" cy="158" r="3" fill="#3776AB"/>
+    <text x="96" y="162" fill="#8B949E">Python 2</text>
+    <circle cx="170" cy="158" r="3" fill="#8B949E"/>
+    <text x="180" y="162" fill="#8B949E">Other 7</text>
+  </g>
+</svg>
