@@ -65,29 +65,35 @@ const ctchen = {
 <td width="50%">
 
 ### [FurFriend-Finder](https://github.com/ctchen222/FurFriend-Finder)
+<sub><strong>Full-stack product / Public data integration / Kubernetes deployment</strong></sub>
 
-Taiwan pet adoption and lost pet matching platform that syncs public shelter data from the Ministry of Agriculture.
+A Taiwan pet adoption and lost-pet matching platform that turns public shelter data into searchable adoption and notification workflows.
 
-**Stack:** `TypeScript` `Node.js` `Express` `PostgreSQL` `LINE` `Helm` `Argo CD` `Kubernetes`
+**My role:** Built the backend services, matching workflow, external integrations, and production-style deployment path.
 
-**Highlights**
-- Shelter animal browsing with city, species, gender, and pagination filters
-- Lost pet reporting with characteristic and location-based smart matching
-- Email notifications, LINE Bot integration, scheduled data sync, and observability
+**Project proof**
+- Syncs Ministry of Agriculture shelter data into a PostgreSQL-backed search experience
+- Supports lost-pet reports, characteristic/location matching, email alerts, and LINE Bot flows
+- Ships with Helm, Argo CD, Kubernetes manifests, scheduled sync jobs, and observability hooks
+
+`TypeScript` `Node.js` `Express` `PostgreSQL` `LINE Bot` `Helm` `Argo CD` `Kubernetes`
 
 </td>
 <td width="50%">
 
 ### [homelab](https://github.com/ctchen222/homelab)
+<sub><strong>GitOps platform / FinOps automation / Self-hosted operations</strong></sub>
 
-Production-grade GitOps homelab on multiple machines, centered around a personal FinOps workspace on k3s.
+A multi-machine k3s homelab that behaves like a small production platform for personal finance, automation, and internal tools.
 
-**Stack:** `TypeScript` `Python` `k3s` `Argo CD` `Helm` `GitHub Actions`
+**My role:** Designed and operated the GitOps flow from source repo to live cluster, including app packaging, secrets, storage, and observability.
 
-**Highlights**
-- FinOps Assistant, ezBookkeeping, Wealthfolio, and market research CronJobs
-- GitHub Actions image publishing with Argo CD auto-sync
-- Private Traefik access boundary, Kubernetes Secrets, PVC persistence, and Grafana observability
+**Project proof**
+- Runs FinOps Assistant, ezBookkeeping, Wealthfolio, and market research CronJobs on k3s
+- Uses GitHub Actions image publishing with Argo CD sync as the deployment control loop
+- Defines private access boundaries with Traefik, Kubernetes Secrets, PVCs, and Grafana dashboards
+
+`TypeScript` `Python` `k3s` `Argo CD` `Helm` `GitHub Actions` `Grafana`
 
 </td>
 </tr>
@@ -95,15 +101,18 @@ Production-grade GitOps homelab on multiple machines, centered around a personal
 <td colspan="2">
 
 ### [openspec.nvim](https://github.com/ctchen222/openspec.nvim)
+<sub><strong>Neovim plugin / Spec workflow control surface / Developer tooling</strong></sub>
 
-Neovim control surface for OpenSpec workflows, keeping markdown artifacts as the source of truth while adding task summaries, workspace context, reports, and implementation sessions.
+A Neovim control surface for OpenSpec workflows that keeps markdown artifacts as the source of truth while making spec work easier to inspect and execute.
 
-**Stack:** `Lua` `Neovim` `OpenSpec`
+**My role:** Built the command surface, artifact parsing, workspace summaries, report generation, and provider-aware implementation entry points.
 
-**Highlights**
-- Task progress summary with next task and incomplete sections
-- Workspace cockpit with artifact digest, Git context, local findings, and recommended upstream action
-- Temporary dark-mode HTML reports and provider-aware implementation sessions via `:OpenSpecImplement`
+**Project proof**
+- Summarizes task progress, next actions, incomplete sections, and local Git context
+- Generates workspace cockpits and temporary dark-mode HTML reports for OpenSpec changes
+- Exposes provider-aware implementation sessions through `:OpenSpecImplement`
+
+`Lua` `Neovim` `OpenSpec` `Developer Tools`
 
 </td>
 </tr>
